@@ -1,3 +1,14 @@
+<div id="bat-signal" align="center">
+
+<br>
+
+
+
+📣  We're looking for researchers and engineers who are passionate about systems science to help us build the foundation of a next-generation language that will usher in an era of systems-oriented programming. We also would love to have conversations with anyone who is already doing or plans to do systems modeling in order to understand their needs and desired features.
+
+</div>
+
+
 # System Language
 System Language (SL) is a proposed formal language for defining systems that can be used to describe any system in natural languge, graphical, and mathematical terms. It can be applied to systems in all domains including business, government, and science. 
 
