@@ -25,7 +25,7 @@ SL was inspired by [George Mobus'](https://directory.tacoma.uw.edu/employee/gmob
 ## SL Components
 SL is comprised of five core components: 
 
-1. [A mathematical definition of a system](https://www.notion.so/shingai/Mathematical-Definition-2d466fcb0e41401fa8e071d379f0c0a8?pvs=4)
+1. [A mathematical definition of a system](https://shingai.notion.site/Mathematical-Definition-2d466fcb0e41401fa8e071d379f0c0a8?pvs=4)
 2. [A graphical user interface (GUI)](https://shingai.notion.site/GUI-860e11dc6ac045839e189fe2539ecdc4?pvs=4])
 3. [A markup language](https://shingai.notion.site/SysXML-a222a22d790f4e249fde4a637f9df8a0?pvs=4)
 4. [A scripting language](https://shingai.notion.site/Scripting-Language-73b2a34fb372409fab9df016462cb5fc?pvs=4)
