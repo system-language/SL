@@ -12,7 +12,7 @@
 # System Language
 System Language (SL) is a proposed formal language for defining systems that can be used to describe any system in natural languge, graphical, and mathematical terms. It can be applied to systems in all domains including business, government, and science. 
 
-We envision SL as the foundation for an open-source "Figma for systems science" that can makes complex systems analysis, modeling, and visualization in [cadCAD](https://www.cadcad.org/) more intuitive and widely accessible.
+We envision SL as the foundation for an open-source "Figma for systems science" that can makes complex systems analysis, modeling, and visualization more intuitive and widely accessible.
 
 
 
